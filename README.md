@@ -1,6 +1,6 @@
 # vol-inc-aws
 
-first check the storage strucutre:
+first check the storage strucutre using `lsblk`
 
 ```shell
 sudo growpart /dev/xvda 1
